@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LandmarkNoteBook</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="add_place">Add place</string>
+</resources>

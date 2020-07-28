@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Adres Defteri</string>
+    <string name="title_activity_maps">Harita</string>
+    <string name="add_place">Mekan Ekle</string>
+</resources>
